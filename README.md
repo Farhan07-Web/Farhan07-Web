@@ -8,7 +8,7 @@
 
 ### 📫 Connect with Me:
 - LinkedIn: [Your LinkedIn Profile](#)
-- Email: [your@email.com](mailto: farhankazi4002@email.com)  
+- Email: (mailto: farhankazi4002@email.com)  
 - GitHub Projects: [Check Here](https://github.com/Farhan07-Web?tab=projects)  
 
 💡 *Always learning, always building!*
